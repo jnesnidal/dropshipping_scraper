@@ -1,4 +1,4 @@
-# dropshipping_clanker
+# dropshipping_scraper
 messing around with web scraping on bulk sales sites like liquidation.com
 
 ## Setup
